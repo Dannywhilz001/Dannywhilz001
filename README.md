@@ -19,26 +19,28 @@ Abeokuta, Nigeria • Fully available for remote work
 
 ### Fintech Fraud Detection Nigeria
 Built fraud detection system with velocity checks & RFM on 50k Nigerian transactions. Detected ~650 fraud cases.  
-![Fraud Dashboard](https://i.ibb.co/PzGnLbL3/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png)  
+![Fraud Dashboard](https://ibb.co/sJgkqts5)  
 → [View Repo](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)
 
 ### Nigerian Inflation Dashboard
 Cleaned 22 years of CBN data (2003–2025) into a publication-ready dashboard. Food inflation spikes >30% in 2024.  
-![Inflation 1](https://i.ibb.co/v60NNJmQ/nigerian-inflation-dashboard-4.png)  
-![Inflation 2](https://i.ibb.co/0yW5bw1h/nigerian-inflation-dashboard-5.png)  
+![Inflation 1](https://ibb.co/LXW9P9cK) 
+![Inflation 2](https://ibb.co/mrc1KFJC)  
 → [View Repo](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
 
 ### Beverage Sales Analytics
 Analyzed 3 million rows in Power BI. Built DAX for revenue forecasts & risk scoring.  
-![Beverage 1](https://i.ibb.co/DfZ296kP/beverage-sales-1.png)  
-![Beverage 2](https://i.ibb.co/0jc2KQ2s/beverage-sales-2.png)  
-→ [View Repo](https://github.com/Dannywhilz001/Beverage-Sales-Dashboard)
+![Beverage 1](https://ibb.co/DfZ296kP)  
+![Beverage 2](https://ibb.co/0jc2KQ2s)  
+→ [View Repo](https://github.com/Dannywhilz001/beverage-sales-dashboard-powerbi)
 
 ### Global GDP Power BI Dashboard
 Interactive dashboard on World Bank GDP data — top 10 economies & regional growth trends.  
-![GDP 1](https://i.ibb.co/39Vy6sb0/GDP-ANALYSIS-1.png)  
-![GDP 2](https://i.ibb.co/Y7H0JWWJ/GDP-ANALYSIS-2.png)  
-→ [View Repo](https://github.com/Dannywhilz001/Global-GDP-Analysis)
+![GDP 1](https://ibb.co/1JwChmRJ) 
+![GDP 2](https://ibb.co/gLQYTTFc)
+![GDP 3](https://ibb.co/LhZfgYbL)
+![GDP 4](https://ibb.co/vCz7PFmT)
+→ [View Repo](https://github.com/Dannywhilz001/Global-GDP-Analysis/raw/main/Global_GDP.pbix)
 
 ## Skills
 **Tools:** Power BI (DAX, Power Query), **Excel (PivotTables, VLOOKUP, Power Query, VBA)**, Python (Pandas, Matplotlib), SQL (CTEs, Window Functions), Jupyter  
