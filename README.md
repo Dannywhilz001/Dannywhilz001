@@ -48,5 +48,24 @@ Interactive dashboard on World Bank GDP data — top 10 economies & regional gro
 Open to full-time, contract, or freelance roles (remote or relocation).
 
 oladotunolawale29@yahoo.com  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
+[LinkedIn](https://www.linkedin.com/in/oladotun-olawale)  
 +234 810 456 3054
+
+## Pinned Repositories Summary
+1. **Fintech-Fraud-Detection-Nigeria**  
+   50k Nigerian transactions | Real-time fraud rules | RFM | Cohorts | Velocity detection | Full SQL + Python  
+
+2. **Nigerian-Inflation-Dashboard**  
+   22 years of official CBN inflation data (2003–Oct 2025) cleaned & visualized in Python | Headline • Food • Core trends  
+
+3. **beverage-sales-dashboard-powerbi**  
+   Interactive Power BI sales dashboard built on 3M cleaned transactions | Custom DAX + Calendar table | €391M revenue analysis  
+
+4. **global-gdp-powerbi-dashboard**  
+   Interactive Power BI dashboard analyzing global economic data across 181 countries ($104.57T GDP, 8B population).  
+
+5. **Pizza-Sales-Power-BI-Dashboard-**  
+   Power BI dashboard analyzing pizza sales performance across 2025. Features revenue tracking ($817.86K), order patterns, top/bottom performers, customer behavior analysis, and sales trends by category.  
+
+6. **Sales-Analysis-Dashboard**  
+   A clean and interactive Excel dashboard designed to analyze product sales, category performance, regional insights, and monthly performance trends. This dashboard converts raw sales data into actionable insights.  
