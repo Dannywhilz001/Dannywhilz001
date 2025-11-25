@@ -1,6 +1,9 @@
-# Oladotun Olawale – Data Analyst  | Python | SQL | Power BI | Excel
-
-Hi! I'm a Data Analyst specializing in turning messy real-world data into actionable insights. Nigerian fintech, economics, and business intelligence are my jam. 2+ year experience reducing reporting time by 75% and boosting margins by 15% using Power BI, DAX, SQL, and Python.
+# Oladotun Olawale – Data Analyst | Python • SQL • Power BI • Excel
+Building fraud detection, economic & business intelligence dashboards  
+75% faster reporting | 15% margin gains in past roles  
+Specialized in Nigerian fintech datasets — ready for global impact  
+Open to remote/relocation roles worldwide  
+Based in Abeokuta, Nigeria | Fully available for remote work
 
 ## Featured Projects
 
