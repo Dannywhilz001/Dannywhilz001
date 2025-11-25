@@ -1,11 +1,10 @@
 # Oladotun Olawale – Data Analyst  
-**Python • SQL • Power BI • Excel • Pandas**
+**Python • SQL • Power BI • Excel**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Remote](https://img.shields.io/badge/Remote-Friendly-2ecc71)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-1DA1F2?logo=linkedin&logoColor=white)
 
