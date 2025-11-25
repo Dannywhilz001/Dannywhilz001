@@ -9,8 +9,8 @@ Based in Abeokuta, Nigeria | Fully available for remote work
 
 ### Nigerian Inflation Dashboard
 Cleaned 22 years of CBN data (2003–2025) into a publication-ready dashboard. Food inflation analysis shows 30%+ spikes in 2024.  
-[Inflation Chart](https://ibb.co/v60NNJmQ)
-https://ibb.co/0yW5bw1h)  
+[Inflation Chart]https://ibb.co/v60NNJmQ 
+https://ibb.co/0yW5bw1h  
 [View Repo](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
 
 ### Fintech Fraud Detection Nigeria
