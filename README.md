@@ -9,26 +9,27 @@ Based in Abeokuta, Nigeria | Fully available for remote work
 
 ### Nigerian Inflation Dashboard
 Cleaned 22 years of CBN data (2003–2025) into a publication-ready dashboard. Food inflation analysis shows 30%+ spikes in 2024.  
-[Inflation Chart]https://ibb.co/v60NNJmQ 
+[Inflation Chart] https://ibb.co/v60NNJmQ 
 https://ibb.co/0yW5bw1h  
 [View Repo](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
 
 ### Fintech Fraud Detection Nigeria
 Built fraud detection system with velocity checks & RFM on 50k Nigerian transactions. Detected 650 fraud cases.  
-[Fraud Dashboard](https://ibb.co/PzGnLbL3)  
+[Fraud Dashboard] https://ibb.co/PzGnLbL3  
 [View Repo](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)
 
 ### Beverage Sales Analytics
 Analyzed 3M row dataset in Power BI. Built DAX for revenue forecasts & risk scoring.  
-[Sales Trends](https://ibb.co/DfZ296kP) (https://ibb.co/0jc2KQ2s)  
+[Sales Trends] https://ibb.co/DfZ296kP 
+https://ibb.co/0jc2KQ2s 
 [View Repo](https://github.com/Dannywhilz001/Beverage-Sales-Dashboard)
 
 ### Global GDP Power BI Dashboard
 Interactive Power BI on World Bank GDP data. Visualized top 10 economies & regional growth.  
-[GDP Trends](https://ibb.co/39Vy6sb0) 
-(https://ibb.co/Y7H0JWWJ)
-(https://ibb.co/9mwtMqc1)
-(https://ibb.co/DfWzVGzj)   
+[GDP Trends] https://ibb.co/39Vy6sb0 
+https://ibb.co/Y7H0JWWJ
+https://ibb.co/9mwtMqc1
+https://ibb.co/DfWzVGzj   
 [View Repo](https://github.com/Dannywhilz001/global-gdp-powerbi-dashboard)
 
 
