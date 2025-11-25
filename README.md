@@ -1,43 +1,36 @@
-# Oladotun Olawale – Data Analyst | Python • SQL • Power BI • Excel
+# Oladotun Olawale – Data Analyst  
+*Python • SQL • Power BI • Pandas*
+
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+[Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+[Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+[Remote](https://img.shields.io/badge/Remote-Friendly-2ecc71)
+[Open%20to%20Work](https://img.shields.io/badge/Open_to_Work-1DA1F2?logo=linkedin&logoColor=white)
+
 Building fraud detection, economic & business intelligence dashboards  
-75% faster reporting | 15% margin gains in past roles  
-Specialized in Nigerian fintech datasets — ready for global impact  
-Open to remote/relocation roles worldwide  
-Based in Abeokuta, Nigeria | Fully available for remote work
+*75% faster reporting | 15% margin gains*  
+Deep expertise in Nigerian fintech & economic data — ready for global impact  
+Open to remote or on-site roles worldwide  
+📍 Abeokuta, Nigeria • Fully available for remote work  
 
 ## Featured Projects
 
-### Nigerian Inflation Dashboard
-Cleaned 22 years of CBN data (2003–2025) into a publication-ready dashboard. Food inflation analysis shows 30%+ spikes in 2024.  
-[Inflation Chart] https://ibb.co/v60NNJmQ 
-https://ibb.co/0yW5bw1h  
-[View Repo](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
+| [[Fintech Fraud Detection](https://i.ibb.co/PzGnLbL3/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png)](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria) | [[Nigerian Inflation Dashboard](https://i.ibb.co/v60NNJmQ/nigerian-inflation-dashboard-4.png)](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard) |
+|---|---|
+| *Fintech Fraud Detection* – 50k synthetic transactions, velocity rules, RFM, fraud heatmap<br>→ [View Repo](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria) | *Nigerian Inflation Dashboard* – 22 years CBN data (2003–2025)<br>→ [View Repo](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard) |
 
-### Fintech Fraud Detection Nigeria
-Built fraud detection system with velocity checks & RFM on 50k Nigerian transactions. Detected 650 fraud cases.  
-[Fraud Dashboard] https://ibb.co/PzGnLbL3  
-[View Repo](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)
-
-### Beverage Sales Analytics
-Analyzed 3M row dataset in Power BI. Built DAX for revenue forecasts & risk scoring.  
-[Sales Trends] https://ibb.co/DfZ296kP 
-https://ibb.co/0jc2KQ2s 
-[View Repo](https://github.com/Dannywhilz001/Beverage-Sales-Dashboard)
-
-### Global GDP Power BI Dashboard
-Interactive Power BI on World Bank GDP data. Visualized top 10 economies & regional growth.  
-[GDP Trends] https://ibb.co/39Vy6sb0 
-https://ibb.co/Y7H0JWWJ
-https://ibb.co/9mwtMqc1
-https://ibb.co/DfWzVGzj   
-[View Repo](https://github.com/Dannywhilz001/global-gdp-powerbi-dashboard)
-
+| [[Beverage Sales Analytics](https://i.ibb.co/DfZ296kP/beverage-sales-1.png)](https://github.com/Dannywhilz001/Beverage-Sales-Dashboard) | [![Global GDP Power BI](https://i.ibb.co/39Vy6sb0/GDP-ANALYSIS-1.png)](https://github.com/Dannywhilz001/Global-GDP-Analysis) |
+|---|---|
+| *Beverage Sales Analytics* – 3M rows, DAX revenue forecasts & risk scoring<br>→ [View Repo](https://github.com/Dannywhilz001/Beverage-Sales-Dashboard) | *Global GDP Dashboard* – World Bank data, top economies & regional trends<br>→ [View Repo](https://github.com/Dannywhilz001/Global-GDP-Analysis) |
 
 ## Skills
-- *Tools:* Power BI (DAX, Modeling), Python (Pandas, Matplotlib), SQL (Window Functions, CTEs), Jupyter  
-- *Domains:* Fintech Fraud, Economic Analysis, Sales Forecasting, ETL  
-- *Impact:* 75% faster reporting | 15% margin improvement  
+*Tools:* Power BI (DAX, Modeling), Python (Pandas, Matplotlib), SQL (CTEs, Window Functions), Excel  
+*Domains:* Fintech Fraud Detection • Economic Analysis • Sales Forecasting • ETL  
+*Impact:* 75% faster reporting • 15% margin improvement  
 
-Open to freelance gigs on Fiverr/Upwork or full-time roles in Nigerian fintech/BI. Let's connect!  
+Open to full-time, freelance, or contract roles in fintech, banking, e-commerce, or consulting (remote or relocation).
 
-📧 oladotunolawale29@yahoo.com | 🔗 [LinkedIn](http://www.linkedin.com/in/oladotun-olawale) | 📱 +2348104563054
+📧 oladotunolawale29@yahoo.com  
+🔗 [LinkedIn](your-linkedin-url-here)  
+📱 +234 810 456 3054
