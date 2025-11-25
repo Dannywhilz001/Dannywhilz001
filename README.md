@@ -1,4 +1,4 @@
-# Dannywhilz001 – Data Analyst  | Python | SQL | Power BI | Excel
+# Oladotun Olawale – Data Analyst  | Python | SQL | Power BI | Excel
 
 Hi! I'm a Data Analyst specializing in turning messy real-world data into actionable insights. Nigerian fintech, economics, and business intelligence are my jam. 2+ year experience reducing reporting time by 75% and boosting margins by 15% using Power BI, DAX, SQL, and Python.
 
