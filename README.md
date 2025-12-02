@@ -44,7 +44,7 @@ Interactive dashboard on World Bank GDP data — top 10 economies & regional gro
 ## Skills
 **Tools:** Power BI (DAX, Power Query), **Excel (PivotTables, VLOOKUP, Power Query, VBA)**, Python (Pandas, Matplotlib), SQL (CTEs, Window Functions), Jupyter  
 **Domains:** Fintech Fraud Detection • Economic Analysis • Sales Forecasting • ETL  
-**Impact:** 75% faster reporting • 15% margin improvement  
+**Impact:** 90% faster reporting • 15% margin improvement  
 
 Open to full-time, contract, or freelance roles (remote or relocation).
 
