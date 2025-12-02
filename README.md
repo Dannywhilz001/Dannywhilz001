@@ -1,15 +1,15 @@
 # Oladotun Olawale – Data Analyst  
 **Python • SQL • Power BI • Excel**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote-Friendly-2ecc71)
-![Open to Work](https://img.shields.io/badge/Open_to_Work-1DA1F2?logo=linkedin&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+[Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+[Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+[Remote](https://img.shields.io/badge/Remote-Friendly-2ecc71)
+[Open to Work](https://img.shields.io/badge/Open_to_Work-1DA1F2?logo=linkedin&logoColor=white)
 
 Building fraud detection, economic & business intelligence dashboards  
-**75% faster reporting | 15% margin gains**  
+**90% faster reporting | 15% margin gains**  
 Deep expertise in Nigerian fintech & economic data — ready for global impact  
 Open to remote or on-site roles worldwide  
 Abeokuta, Nigeria • Fully available for remote work  
@@ -35,10 +35,10 @@ Analyzed 3 million rows in Power BI. Built DAX for revenue forecasts & risk scor
 
 ### Global GDP Power BI Dashboard
 Interactive dashboard on World Bank GDP data — top 10 economies & regional growth trends.  
-![GDP 1](https://ibb.co/1JwChmRJ) 
-![GDP 2](https://ibb.co/gLQYTTFc)
-![GDP 3](https://ibb.co/LhZfgYbL)
-![GDP 4](https://ibb.co/vCz7PFmT)
+[GDP 1](https://ibb.co/1JwChmRJ) 
+[GDP 2](https://ibb.co/gLQYTTFc)
+[GDP 3](https://ibb.co/LhZfgYbL)
+[GDP 4](https://ibb.co/vCz7PFmT)
 → [View Repo](https://github.com/Dannywhilz001/Global-GDP-Analysis/raw/main/Global_GDP.pbix)
 
 ## Skills
