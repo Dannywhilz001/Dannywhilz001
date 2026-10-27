@@ -1,208 +1,105 @@
 # Hi, I'm Oladotun Olawale 👋
-### Data Analyst | Business Intelligence | SQL • Python • Excel • Power BI
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions. I use SQL, Python, Excel, and Power BI to clean and analyse datasets, identify trends, develop interactive dashboards, and communicate findings through data storytelling.
-My portfolio showcases projects in sales analytics, customer behaviour, financial fraud detection, economic analysis, and business intelligence. I enjoy solving analytical problems and turning complex datasets into clear, actionable insights.
-- 🔎 **Focus:** Data Analytics, Business Intelligence, Reporting, and Data Visualisation
-- 🛠️ **Tools:** SQL, Python, Excel, Power BI, DAX, and Power Query
-- 📊 **Interests:** Sales Analytics, Customer Analytics, Fraud Detection, KPI Reporting, and Predictive Analytics
-- 🌱 **Currently developing:** SQL data cleaning, analytical modelling, and dashboard development
-- 🤝 **Open to:** Data Analyst opportunities, internships, freelance projects, and collaborations
-- 📍 **Location:** Nigeria
+### Data Analyst | Business Intelligence | Excel | SQL | Python | Power BI
+I transform raw data into actionable insights through data cleaning, exploratory data analysis, KPI development, interactive dashboards, and business intelligence reporting.
+My portfolio features projects across sales performance, e-commerce, financial fraud detection, Nigerian economic indicators, and Formula 1 analytics.
 ---
-## 🧰 Technical Skills
-| Category | Tools & Skills |
-|---|---|
-| Data Analysis | Exploratory Data Analysis (EDA), Statistical Analysis, Trend Analysis |
-| Querying | SQL, Data Extraction, Joins, Aggregations, Data Cleaning |
-| Programming | Python, pandas, NumPy, scikit-learn |
-| Spreadsheets | Microsoft Excel, PivotTables, Lookup Functions, Reporting |
-| Business Intelligence | Power BI, DAX, Power Query, Data Modelling, KPI Development |
-| Visualisation | Interactive Dashboards, Charts, Data Storytelling |
-| Analytics | Sales Analysis, Customer Segmentation, Fraud Analytics, Forecasting |
-| Databases | SQL, SQLite |
+## 🛠️ Technical Skills
+- **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
+- **Business Intelligence:** Power BI, DAX, Power Query, KPI Development
+- **Data Visualization:** Interactive Dashboards, Trend Analysis, Data Storytelling
+- **Analytics:** Customer Segmentation, Revenue Analysis, Forecasting, Fraud Detection
+- **Tools:** Git, GitHub, Jupyter Notebook
 ---
-# 📊 Featured Projects
-## 1. 🍹 Beverage Sales Dashboard
-**Tools:** Power BI, DAX, Power Query, Data Modelling
-Developed a two-page interactive Power BI dashboard using cleaned beverage sales data to analyse revenue, customer behaviour, regional performance, and sales trends.
-### Dashboard Preview
-**Page 1 — Executive Summary**
-<p align="center">
-  <a href="https://ibb.co/v2rTkLW">
-    <img src="https://i.ibb.co/9Rf1Wy0/beverage-sales-1.png" alt="Beverage Sales Dashboard — Executive Summary" width="900">
-  </a>
-</p>
-**Page 2 — Customer Insights**
-<p align="center">
-  <a href="https://ibb.co/5gjpLvxB">
-    <img src="https://i.ibb.co/q3gqp9Fk/beverage-sales-2.png" alt="Beverage Sales Dashboard — Customer Insights" width="900">
-  </a>
-</p>
-### Key Highlights
-- Analysed approximately €391.55M in total sales.
-- Evaluated 3 million transactions and approximately 10,000 customers.
-- Identified 52.1% year-over-year sales growth.
-- Developed custom DAX measures and a calendar table for time intelligence.
-- Examined customer metrics, regional performance, product performance, and order values.
-🔗 **[View Beverage Sales Dashboard Repository](https://github.com/Dannywhilz001/beverage-sales-dashboard-powerbi)**
+# 📊 Data Analytics Portfolio
+## 1. Beverage Sales Analysis Dashboard
+**Tools:** Power BI | DAX | Power Query
+An interactive sales analytics project examining beverage sales performance, revenue trends, order activity, and business performance indicators.
+### **Dashboard Preview**
+![Beverage Sales Dashboard - Page 1](https://i.ibb.co/9Rf1Wy0/beverage-sales-1.png)
+![Beverage Sales Dashboard - Page 2](https://i.ibb.co/q3gqp9Fk/beverage-sales-2.png)
+### **Key Highlights**
+- Analyzed approximately €391M in revenue across 3 million orders.
+- Examined year-over-year sales performance and business trends.
+- Developed interactive dashboard views to support data-driven decisions.
+**Repository:** [Beverage Sales Dashboard](https://github.com/Dannywhilz001/beverage-sales-dashboard-powerbi)
 ---
-## 2. 📊 Superstore Sales Analytics Dashboard
-**Tools:** Microsoft Excel, PivotTables, Charts, Slicers
-Created an interactive Excel dashboard to analyse product sales, category profitability, regional performance, and monthly sales trends.
-### Dashboard Preview
-<p align="center">
-  <a href="https://ibb.co/Lz8Zckhw">
-    <img src="https://i.ibb.co/Gv058x3w/Sales-analysis-dashboard.png" alt="Superstore Sales Analytics Dashboard in Excel" width="900">
-  </a>
-</p>
-### Key Highlights
-- Compared product performance across regions.
-- Analysed category-level sales and profitability.
-- Identified the top-performing products.
-- Used interactive slicers to filter data by product, category, and region.
-- Presented monthly sales trends through an interactive Excel dashboard.
-🔗 **[View Superstore Sales Dashboard Repository](https://github.com/Dannywhilz001/Sales-Analysis-Dashboard)**
+## 2. Superstore Sales Analysis Dashboard
+**Tools:** Microsoft Excel | PivotTables | Charts | Slicers
+An interactive Excel dashboard designed to analyze sales, profitability, product and category performance, regional results, and business KPIs.
+### **Dashboard Preview**
+![Superstore Sales Dashboard](https://i.ibb.co/VY3hJD15/Superstore-Sales-Dashboard.png)
+### **Key Highlights**
+- Analyzed total sales, total profits, order volume, quantity sold, and profit margin.
+- Compared category and sub-category performance to identify sales and profitability patterns.
+- Evaluated sales and profit by customer segment and geographic region.
+- Presented key business metrics in an interactive Excel dashboard.
+**Repository:** [Superstore Sales Dashboard](https://github.com/Dannywhilz001/Sales-Analysis-Dashboard)
 ---
-## 3. 🛍️ E-Commerce Customer Analytics Dashboard
-**Tools:** Power BI, DAX, Power Query, Data Modelling
-Developed a four-page Power BI dashboard to analyse e-commerce revenue, customer segmentation, product performance, and time-based business trends.
-### Dashboard Preview
-**Page 1 — Executive Summary**
-<p align="center">
-  <a href="https://ibb.co/0R7bP43p">
-    <img src="https://i.ibb.co/XrQRm0Tf/E-commerce-Dashboard-1.png" alt="E-Commerce Dashboard — Executive Summary" width="900">
-  </a>
-</p>
-**Page 2 — Customer Analytics**
-<p align="center">
-  <a href="https://ibb.co/4wDC00rv">
-    <img src="https://i.ibb.co/CpX4SSGC/E-commerce-Dashboard-2.png" alt="E-Commerce Dashboard — Customer Analytics" width="900">
-  </a>
-</p>
-**Page 3 — Product Performance**
-<p align="center">
-  <a href="https://ibb.co/VWQfhv5j">
-    <img src="https://i.ibb.co/zh7qLSDn/E-commerce-Dashboard-3.png" alt="E-Commerce Dashboard — Product Performance" width="900">
-  </a>
-</p>
-**Page 4 — Time Intelligence**
-<p align="center">
-  <a href="https://ibb.co/mFXb6kTr">
-    <img src="https://i.ibb.co/fGnq4fFV/E-commerce-Dashboard-4.png" alt="E-Commerce Dashboard — Time Intelligence" width="900">
-  </a>
-</p>
-### Key Highlights
-- Analysed approximately £8.62M in revenue across 19,000 orders.
-- Examined customer purchasing behaviour using RFM segmentation.
-- Identified an approximately £890K potential customer recovery opportunity.
-- Evaluated customer lifetime value, repeat purchases, and retention patterns.
-- Analysed product performance, revenue contributions, and monthly trends.
-- Used time intelligence to examine growth patterns and performance by day and period.
-🔗 **[View E-Commerce Analytics Dashboard Repository](https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard)**
+## 3. E-Commerce Analytics Dashboard
+**Tools:** Power BI | DAX | Power Query
+An interactive e-commerce analytics project covering executive performance, customer segmentation, product performance, and time intelligence.
+### **Dashboard Preview**
+**Executive Summary**
+![E-Commerce Executive Summary](https://i.ibb.co/XrQRm0Tf/E-commerce-Dashboard-1.png)
+**Customer Analytics**
+![E-Commerce Customer Analytics](https://i.ibb.co/CpX4SSGC/E-commerce-Dashboard-2.png)
+**Product Performance**
+![E-Commerce Product Performance](https://i.ibb.co/zh7qLSDn/E-commerce-Dashboard-3.png)
+**Time Intelligence**
+![E-Commerce Time Intelligence](https://i.ibb.co/fGnq4fFV/E-commerce-Dashboard-4.png)
+### **Key Highlights**
+- Analyzed revenue trends, customer behavior, and product performance.
+- Identified a 47.9% month-over-month growth spike in the analyzed period.
+- Highlighted an estimated £890K recoverable revenue opportunity.
+- Examined customer segments, repeat purchases, and revenue concentration.
+**Repository:** [E-Commerce Analytics Dashboard](https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard)
 ---
-## 4. 🛡️ Nigerian Fintech Fraud Detection & Analytics
-**Tools:** Python, pandas, SQL, SQLite, Data Visualisation
-Developed a fintech fraud analytics project using a synthetic dataset of 50,000 Nigerian transactions to investigate suspicious transaction patterns, transaction velocity, merchant risk, and customer behaviour.
-### Dashboard Preview
-<p align="center">
-  <a href="https://ibb.co/PzGnLbL3">
-    <img src="https://i.ibb.co/rf2SjLjT/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png" alt="Nigerian Fintech Fraud and Business Intelligence Dashboard" width="900">
-  </a>
-</p>
-### Key Highlights
-- Analysed 50,000 synthetic transactions involving 5,000 customers and 200 merchants.
-- Implemented rule-based fraud checks involving transaction amounts, velocity, channels, and merchant risk.
-- Investigated fraud patterns by channel, time, and merchant.
-- Applied RFM customer segmentation and examined customer activity.
-- Used SQL and Python to demonstrate a reproducible fraud analytics workflow.
-**Note:** This project uses synthetic transaction data and demonstrates analytical fraud-risk techniques; it is not a production banking fraud detection system.
-🔗 **[View Nigerian Fintech Fraud Repository](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)**
+## 4. Nigerian Fintech Fraud Detection
+**Tools:** Python | SQL | Scikit-learn | Power BI
+A fraud analytics project combining transaction analysis, machine learning, and business intelligence to explore potentially fraudulent financial activity in a Nigerian fintech context.
+### **Dashboard Preview**
+![Nigerian Fintech Fraud Detection Dashboard](https://i.ibb.co/rf2SjLjT/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png)
+### **Key Highlights**
+- Explored transaction patterns and potential fraud indicators using synthetic data.
+- Applied machine learning techniques to classify potentially fraudulent transactions.
+- Developed a Power BI dashboard to communicate fraud-related patterns and findings.
+- Combined analytical outputs with business-focused visual reporting.
+**Repository:** [Nigerian Fintech Fraud Detection](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)
 ---
-## 5. 📈 Nigerian Inflation Analysis
-**Tools:** Python, pandas, Data Cleaning, Time-Series Visualisation
-Analysed more than 22 years of Nigerian inflation data from the Central Bank of Nigeria to explore historical movements in headline, food, and core inflation.
-### Dashboard Previews
-**Preview 1 — Inflation Analysis**
-<p align="center">
-  <a href="https://ibb.co/v60NNJmQ">
-    <img src="https://i.ibb.co/KpTtt97L/nigerian-inflation-dashboard-4.png" alt="Nigerian Inflation Dashboard — First Preview" width="900">
-  </a>
-</p>
-**Preview 2 — Headline, Food and Core Inflation**
-<p align="center">
-  <a href="https://ibb.co/0yW5bw1h">
-    <img src="https://i.ibb.co/LdqK7GBn/nigerian-inflation-dashboard-5.png" alt="Nigerian Inflation Dashboard — Headline, Food and Core Inflation" width="900">
-  </a>
-</p>
-### Key Highlights
-- Worked with more than 22 years of historical inflation data covering 2003 to October 2025.
-- Cleaned and prepared historical data for analysis.
-- Visualised headline, food, and core inflation movements.
-- Examined long-term inflation trends and major historical changes.
-🔗 **[View Nigerian Inflation Dashboard Repository](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)**
+## 5. Nigerian Inflation Analysis Dashboard
+**Tools:** Power BI | DAX | Data Visualization
+An economic data analysis project examining Nigerian inflation trends over time, using historical indicators to explore changes in the country's inflation environment.
+### **Dashboard Preview**
+![Nigerian Inflation Dashboard - Page 1](https://i.ibb.co/KpTtt97L/nigerian-inflation-dashboard-4.png)
+![Nigerian Inflation Dashboard - Page 2](https://i.ibb.co/LdqK7GBn/nigerian-inflation-dashboard-5.png)
+### **Key Highlights**
+- Analyzed historical Nigerian inflation data spanning more than two decades.
+- Examined changes in inflation over time and compared economic trends.
+- Presented historical indicators through interactive visualizations.
+- Transformed economic data into a more accessible format for exploration and interpretation.
+**Repository:** [Nigerian Inflation Dashboard](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
 ---
-## 6. 🏎️ Formula 1 Performance Dashboard
-**Tools:** Microsoft Power BI, DAX, Data Visualisation
-Developed a four-page Formula 1 dashboard to explore racing statistics, compare drivers and constructors, analyse circuits and races, and review season-level performance.
-### Dashboard Preview
-**Page 1 — Overview**
-<p align="center">
-  <a href="https://ibb.co/hRMjTYVs">
-    <img src="https://i.ibb.co/XZ4gGYtX/F1-DASHBOARD-1.png" alt="Formula 1 Dashboard — Overview" width="900">
-  </a>
-</p>
-**Page 2 — Drivers**
-<p align="center">
-  <a href="https://ibb.co/QFBydGyh">
-    <img src="https://i.ibb.co/xSvxHQxw/F1-DASHBOARD2-2.png" alt="Formula 1 Dashboard — Drivers" width="900">
-  </a>
-</p>
-**Page 3 — Circuits & Races**
-<p align="center">
-  <a href="https://ibb.co/0RqKFHgC">
-    <img src="https://i.ibb.co/yc0pYHw6/F1-DASHBOARD-3.png" alt="Formula 1 Dashboard — Circuits and Races" width="900">
-  </a>
-</p>
-**Page 4 — Season Review**
-<p align="center">
-  <a href="https://ibb.co/vxrG7Jcm">
-    <img src="https://i.ibb.co/KjQkM957/F1-DASHBOARD-4-2.png" alt="Formula 1 Dashboard — Season Review" width="900">
-  </a>
-</p>
-### Key Highlights
-- Presented key Formula 1 statistics in an interactive overview.
-- Compared driver and constructor performance using racing metrics.
-- Explored circuit information, race statistics, and performance patterns.
-- Reviewed season-level trends and historical results.
-- Organised four dashboard pages into a consistent interactive reporting experience.
-🔗 **[Explore My GitHub Repositories](https://github.com/Dannywhilz001?tab=repositories)**
+## 6. Formula 1 Analytics Dashboard
+**Tools:** Power BI | DAX | Data Modeling | Data Visualization
+An interactive Formula 1 dashboard exploring driver performance, constructor statistics, circuits, race history, and season-level trends.
+### **Dashboard Preview**
+**Overview**
+![Formula 1 Dashboard - Overview](https://i.ibb.co/XZ4gGYtX/F1-DASHBOARD-1.png)
+**Drivers**
+![Formula 1 Dashboard - Drivers](https://i.ibb.co/xSvxHQxw/F1-DASHBOARD2-2.png)
+**Circuits and Races**
+![Formula 1 Dashboard - Circuits and Races](https://i.ibb.co/yc0pYHw6/F1-DASHBOARD-3.png)
+**Season Review**
+![Formula 1 Dashboard - Season Review](https://i.ibb.co/KjQkM957/F1-DASHBOARD-4-2.png)
+### **Key Highlights**
+- Analyzed driver and constructor performance across Formula 1 seasons.
+- Explored race results, circuits, wins, podiums, and qualifying-related metrics.
+- Compared historical trends through interactive dashboard pages.
+- Organized racing statistics into an accessible, multi-page analytical experience.
+**Repository:** [Explore my GitHub profile for project repositories](https://github.com/Dannywhilz001)
 ---
-## 📌 What I Can Do
-- Clean, transform, and validate datasets.
-- Query and analyse structured data using SQL.
-- Analyse business performance using Excel and Python.
-- Build interactive Power BI dashboards and KPI reports.
-- Develop DAX measures and perform time-based analysis.
-- Investigate customer behaviour, sales performance, and transaction risk.
-- Identify patterns and trends through exploratory data analysis.
-- Translate analytical findings into actionable business insights.
-- Communicate results through data visualisation and storytelling.
+## 📫 Connect With Me
+- **LinkedIn:** [Oladotun Olawale](https://www.linkedin.com/in/oladotun-olawale/)
+- **GitHub:** [Dannywhilz001](https://github.com/Dannywhilz001)
 ---
-## 🎯 Current Learning Goals
-I am continually strengthening my analytical skills through practical projects and hands-on learning.
-My current priorities include:
-- Improving SQL proficiency for data extraction, cleaning, and analysis.
-- Building advanced Excel reporting solutions.
-- Developing interactive Power BI dashboards with effective DAX measures.
-- Improving Python workflows for data manipulation and exploratory analysis.
-- Strengthening my ability to connect analytical findings with business objectives.
----
-## 🤝 Let's Connect
-I welcome opportunities to collaborate on data projects, contribute to analytical work, and connect with professionals in data analytics and business intelligence.
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/oladotun-olawale/)
-- 💻 **GitHub:** [Explore my repositories](https://github.com/Dannywhilz001)
-- 📂 **Portfolio:** [View all projects](https://github.com/Dannywhilz001?tab=repositories)
----
-### 💡 My Approach
-> Data becomes valuable when analysis turns it into understanding, and understanding leads to better decisions.
-**Thanks for visiting my profile!** ⭐
+*Turning data into insights, and insights into better decisions.*
