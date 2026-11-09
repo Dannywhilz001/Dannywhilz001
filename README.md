@@ -1,7 +1,7 @@
 # Hi, I'm Oladotun Olawale 👋
 ### Data Analyst | Business Intelligence | Excel | SQL | Python | Power BI
 I transform raw data into actionable insights through data cleaning, exploratory data analysis, KPI development, interactive dashboards, and business intelligence reporting.
-My portfolio features projects across sales performance, e-commerce, financial fraud detection, Nigerian economic indicators, and Formula 1 analytics.
+My portfolio features projects across Retail business performance analysis, sales performance, e-commerce, financial fraud detection, Nigerian economic indicators, and Formula 1 analytics.
 ---
 ## 🛠️ Technical Skills
 - **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
