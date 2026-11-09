@@ -16,10 +16,10 @@ My portfolio features projects across sales performance, e-commerce, financial f
 **Tools:** Power BI | DAX | Power Query | Data Modelling
 An interactive, four-page Power BI dashboard project built to evaluate retail business performance using sales, profitability, product, customer, and operational data. The project demonstrates data cleaning, data modelling, DAX measure development, KPI analysis, and business-focused data visualization.
 ### Dashboard Preview
-![Executive Summary](https://ibb.co/ycVXKWxg/Retail1.png)
-![Sales and Profitability](https://ibb.co/qMkNywqd/Retail2.png)
-![Product and Customer Analysis](https://ibb.co/LXM9KdGC/Retail3.png)
-![City and Operations Analysis](https://ibb.co/hJxpwKKY/Retail4.png)
+![Executive Summary](https://ibb.co/ycVXKWxg/Retail-1.png)
+![Sales and Profitability](https://ibb.co/qMkNywqd/Retail-2.png)
+![Product and Customer Analysis](https://ibb.co/LXM9KdGC/Retail-3.png)
+![City and Operations Analysis](https://ibb.co/hJxpwKKY/Retail-4.png)
 ### Key Highlights
 - Analyzed revenue, gross profit, profit margins, orders, and target achievement.
 - Evaluated sales performance across products, categories, customer segments, and sales channels.
