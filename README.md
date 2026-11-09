@@ -11,31 +11,26 @@ My portfolio features projects across sales performance, e-commerce, financial f
 - **Tools:** Git, GitHub, Jupyter Notebook
 ---
 # 📊 Data Analytics Portfolio
-## 1. Beverage Sales Analysis Dashboard
-**Tools:** Power BI | DAX | Power Query
-An interactive sales analytics project examining beverage sales performance, revenue trends, order activity, and business performance indicators.
-### **Dashboard Preview**
-![Beverage Sales Dashboard - Page 1](https://i.ibb.co/9Rf1Wy0/beverage-sales-1.png)
-![Beverage Sales Dashboard - Page 2](https://i.ibb.co/q3gqp9Fk/beverage-sales-2.png)
-### **Key Highlights**
-- Analyzed approximately €391M in revenue across 3 million orders.
-- Examined year-over-year sales performance and business trends.
-- Developed interactive dashboard views to support data-driven decisions.
-**Repository:** [Beverage Sales Dashboard](https://github.com/Dannywhilz001/beverage-sales-dashboard-powerbi)
----
-## 2. Superstore Sales Analysis Dashboard
-**Tools:** Microsoft Excel | PivotTables | Charts | Slicers
-An interactive Excel dashboard designed to analyze sales, profitability, product and category performance, regional results, and business KPIs.
-### **Dashboard Preview**
-![Superstore Sales Dashboard](https://i.ibb.co/VY3hJD15/Superstore-Sales-Dashboard.png)
-### **Key Highlights**
-- Analyzed total sales, total profits, order volume, quantity sold, and profit margin.
-- Compared category and sub-category performance to identify sales and profitability patterns.
-- Evaluated sales and profit by customer segment and geographic region.
-- Presented key business metrics in an interactive Excel dashboard.
-**Repository:** [Superstore Sales Dashboard](https://github.com/Dannywhilz001/Sales-Analysis-Dashboard)
----
-## 3. E-Commerce Analytics Dashboard
+
+## 1. Retail Business Performance Analysis
+**Tools:** Power BI | DAX | Power Query | Data Modelling
+An interactive, four-page Power BI dashboard project built to evaluate retail business performance using sales, profitability, product, customer, and operational data. The project demonstrates data cleaning, data modelling, DAX measure development, KPI analysis, and business-focused data visualization.
+### Dashboard Preview
+![Executive Summary](https://ibb.co/ycVXKWxg)
+![Sales and Profitability](https://ibb.co/qMkNywqd)
+![Product and Customer Analysis](https://ibb.co/LXM9KdGC)
+![City and Operations Analysis](https://ibb.co/hJxpwKKY)
+### Key Highlights
+- Analyzed revenue, gross profit, profit margins, orders, and target achievement.
+- Evaluated sales performance across products, categories, customer segments, and sales channels.
+- Examined customer acquisition patterns and discount performance.
+- Assessed order cancellations, returns, and order-to-ship processing time across cities.
+- Developed interactive dashboards and business recommendations to support data-driven decision-making.
+**Note:** This project uses a synthetic business dataset created for portfolio and learning purposes.
+**Repository:** [Retail Business Performance Analysis](https://github.com/Dannywhilz001/Retail-Business-Performance-Analysis)
+---  
+  
+  ## 2. E-Commerce Analytics Dashboard
 **Tools:** Power BI | DAX | Power Query
 An interactive e-commerce analytics project covering executive performance, customer segmentation, product performance, and time intelligence.
 ### **Dashboard Preview**
@@ -54,6 +49,20 @@ An interactive e-commerce analytics project covering executive performance, cust
 - Examined customer segments, repeat purchases, and revenue concentration.
 **Repository:** [E-Commerce Analytics Dashboard](https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard)
 ---
+
+## 3. Superstore Sales Analysis Dashboard
+**Tools:** Microsoft Excel | PivotTables | Charts | Slicers
+An interactive Excel dashboard designed to analyze sales, profitability, product and category performance, regional results, and business KPIs.
+### **Dashboard Preview**
+![Superstore Sales Dashboard](https://i.ibb.co/VY3hJD15/Superstore-Sales-Dashboard.png)
+### **Key Highlights**
+- Analyzed total sales, total profits, order volume, quantity sold, and profit margin.
+- Compared category and sub-category performance to identify sales and profitability patterns.
+- Evaluated sales and profit by customer segment and geographic region.
+- Presented key business metrics in an interactive Excel dashboard.
+**Repository:** [Superstore Sales Dashboard](https://github.com/Dannywhilz001/Sales-Analysis-Dashboard)
+---
+
 ## 4. Nigerian Fintech Fraud Detection
 **Tools:** Python | SQL | Scikit-learn | Power BI
 A fraud analytics project combining transaction analysis, machine learning, and business intelligence to explore potentially fraudulent financial activity in a Nigerian fintech context.
