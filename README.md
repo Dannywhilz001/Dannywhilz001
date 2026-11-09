@@ -30,7 +30,7 @@ An interactive, four-page Power BI dashboard project built to evaluate retail bu
 **Repository:** [Retail Business Performance Analysis](https://github.com/Dannywhilz001/Retail-Business-Performance-Analysis)
 ---  
   
-  ## 2. E-Commerce Analytics Dashboard
+## 2. E-Commerce Analytics Dashboard
 **Tools:** Power BI | DAX | Power Query
 An interactive e-commerce analytics project covering executive performance, customer segmentation, product performance, and time intelligence.
 ### **Dashboard Preview**
@@ -105,7 +105,7 @@ An interactive Formula 1 dashboard exploring driver performance, constructor sta
 - Explored race results, circuits, wins, podiums, and qualifying-related metrics.
 - Compared historical trends through interactive dashboard pages.
 - Organized racing statistics into an accessible, multi-page analytical experience.
-**Repository:** [Explore my GitHub profile for project repositories](https://github.com/Dannywhilz001)
+**Repository:** [Explore my GitHub profile for project repositories](https://github.com/Dannywhilz001/Formula-1-World-Championship-Dashboard-Power-BI-)
 ---
 ## 📫 Connect With Me
 - **LinkedIn:** [Oladotun Olawale](https://www.linkedin.com/in/oladotun-olawale/)
