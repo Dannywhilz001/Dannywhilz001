@@ -79,6 +79,104 @@
   </tr>
 </table>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. SkyLens Aviation Analytics</h3>
+      <p>
+        An interactive aviation analytics project exploring flight
+        operations, airline performance, cancellations and delays.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/SkyLens-Aviation-Operations-Intelligence">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. Retail Business Performance</h3>
+      <p>
+        A four-page business intelligence dashboard examining
+        sales, profitability, products, customers and city-level operations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/Retail-Business-Performance-Analysis">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. E-Commerce Analytics</h3>
+      <p>
+        A Power BI project exploring e-commerce data to uncover
+        sales patterns and business performance insights.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=flat-square&logo=powerbi&logoColor=black" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. Fintech Fraud Detection – Nigeria</h3>
+      <p>
+        An analysis of 50,000 synthetic Nigerian financial transactions
+        using fraud detection rules, transaction patterns and customer analytics.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05. Nigerian Inflation Dashboard</h3>
+      <p>
+        A Python-based analysis of over 22 years of Nigerian inflation
+        data, exploring headline, food and core inflation trends.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Visualization-0F766E?style=flat-square" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06. Formula 1 World Championship Analytics</h3>
+      <p>
+        A Power BI sports analytics project exploring Formula 1
+        championship data and racing performance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=flat-square&logo=powerbi&logoColor=black" />
+      </p>
+      <a href="https://github.com/Dannywhilz001/Formula-1-World-Championship-Dashboard-Power-BI-">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 # 📊 Data Analytics Portfolio
 
 ## 1. Retail Business Performance Analysis
