@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_profile_banner_1280x400.png" width="100%" />
+  <img src="github structure image.png" width="100%" />
 </p>
 # Hi, I'm Oladotun Olawale 👋
 ### Data Analyst | Business Intelligence | Excel | SQL | Python | Power BI
