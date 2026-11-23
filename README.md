@@ -24,7 +24,19 @@
 </table>
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
-<h2 align="center">📊 Skills</h2>
+
+<!-- TOOLS & TECHNOLOGIES -->
+<h2 align="center">🛠️ Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<!-- SKILLS -->
+<h2 align="center">📊 Skills & Expertise</h2>
 
 <table>
   <tr>
@@ -33,23 +45,24 @@
       <ul>
         <li>Data Cleaning & Transformation</li>
         <li>Exploratory Data Analysis</li>
+        <li>Data Modeling</li>
         <li>Dashboard Development</li>
-        <li>KPI Tracking & Reporting</li>
+        <li>KPI Development & Tracking</li>
         <li>Data Visualization</li>
         <li>Data Validation</li>
-        <li>SQL Querying</li>
-        <li>DAX & Data Modeling</li>
+        <li>DAX & Power Query</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Analytical Skills</h3>
       <ul>
         <li>Business Performance Analysis</li>
+        <li>Sales & Revenue Analysis</li>
         <li>Trend Analysis</li>
         <li>Customer & Product Analysis</li>
-        <li>Operational Analysis</li>
         <li>Financial Analysis</li>
-        <li>Problem-Solving with Data</li>
+        <li>Operational Analysis</li>
+        <li>Performance Monitoring</li>
         <li>Data-Driven Decision Support</li>
       </ul>
     </td>
@@ -59,25 +72,15 @@
         <li>Critical Thinking</li>
         <li>Analytical Problem-Solving</li>
         <li>Attention to Detail</li>
+        <li>Logical Reasoning</li>
         <li>Communication of Insights</li>
-        <li>Continuous Learning</li>
         <li>Structured Thinking</li>
+        <li>Continuous Learning</li>
       </ul>
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<h2 align="center">📊 Featured Projects</h2>
 
-<p align="center">
-  A selection of data analytics projects exploring business performance,
-  operations, sales trends and real-world datasets.
-</p>
 
 ## 🛠️ Technical Skills
 - **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
