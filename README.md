@@ -1,12 +1,27 @@
 <p align="center">
   <img src="github structure image.png" width="100%" />
 </p>
-
-# Hi, I'm Oladotun Olawale 👋
-### Data Analyst | Business Intelligence | Excel | SQL | Python | Power BI
-I transform raw data into actionable insights through data cleaning, exploratory data analysis, KPI development, interactive dashboards, and business intelligence reporting.
-My portfolio features projects across Retail business performance analysis, sales performance, e-commerce, financial fraud detection, Nigerian economic indicators, and Formula 1 analytics.
----
+<table>
+  <tr>
+    <td width="220">
+      <img src="profile.png" width="200" alt="Profile photo"/>
+    </td>
+    <td>
+      <h2>Hello, I'm Oladotun!</h2>
+      <h3>Data Analyst</h3>
+      <p>
+        I transform raw data into meaningful insights through data analysis,
+        visualization and business intelligence. Using SQL, Power BI, Excel
+        and Python, I explore datasets, uncover trends, build interactive
+        dashboards and solve practical business problems.
+      </p>
+      <p>
+        My projects explore business performance, sales, operations,
+        finance and real-world analytical scenarios.
+      </p>
+    </td>
+  </tr>
+</table>
 ## 🛠️ Technical Skills
 - **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
 - **Business Intelligence:** Power BI, DAX, Power Query, KPI Development
