@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+<h2 align="center">📊 Featured Projects</h2>
+
+<p align="center">
+  A selection of data analytics projects exploring business performance,
+  operations, sales trends and real-world datasets.
+</p>
 
 ## 🛠️ Technical Skills
 - **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
