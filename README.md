@@ -34,7 +34,7 @@
 </p>
 
 <!-- SKILLS -->
-<h3 align="center">Workplace Skills</h3>
+<h3 align="center">Skills & Expertise</h3>
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Professional Skills</h3>
+      <h3 align="center">Workplace Skills</h3>
       <ul>
         <li>Critical Thinking</li>
         <li>Analytical Problem-Solving</li>
