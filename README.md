@@ -175,6 +175,21 @@
     </td>
   </tr>
 </table>
+<td width="50%" valign="top">
+  <h3 align="center">07. U.S. Average Price Trend Analysis</h3>
+  <p align="center">
+    An interactive Excel dashboard analysing monthly U.S. average prices across product categories. Explores year-over-year price movements, identifies items with the largest price increases and decreases, and tracks pricing trends through interactive visualisations.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </p>
+  <p align="center">
+    <a href="https://github.com/Dannywhilz001/us-average-price-trends-analysis">
+      <strong>View Project →</strong>
+    </a>
+  </p>
+</td>
 
 
 # 📊 Data Analytics Portfolio
