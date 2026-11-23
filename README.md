@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github_profile_banner_1280x400.png" width="100%" />
+</p>
 # Hi, I'm Oladotun Olawale 👋
 ### Data Analyst | Business Intelligence | Excel | SQL | Python | Power BI
 I transform raw data into actionable insights through data cleaning, exploratory data analysis, KPI development, interactive dashboards, and business intelligence reporting.
