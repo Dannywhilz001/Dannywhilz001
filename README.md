@@ -79,176 +79,163 @@
   </tr>
 </table>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">01. SkyLens Aviation Analytics</h3>
-      <p align="center"><strong>Flight Overview</strong></p>
-      <a href="https://i.ibb.co/ZzZB5Zqd/skylens-1.png">
-        <img src="https://i.ibb.co/ZzZB5Zqd/skylens-1.png" width="100%" alt="SkyLens Flight Overview"/>
-      </a>
-      <p align="center"><strong>Performance &amp; Delays</strong></p>
-      <a href="https://i.ibb.co/0j6PVtQ6/skylens-2.png">
-        <img src="https://i.ibb.co/0j6PVtQ6/skylens-2.png" width="100%" alt="SkyLens Performance and Delays"/>
-      </a>
-      <p>An interactive aviation analytics project exploring flight operations, airline performance, cancellations and delays.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/SkyLens-Aviation-Operations-Intelligence"><strong>View Project →</strong></a></p>
-    </td>
+A selection of data analytics projects demonstrating my experience in data cleaning, exploratory analysis, business intelligence, dashboard development and data-driven problem-solving.
 
-    <td width="50%" valign="top">
-      <h3 align="center">02. Retail Business Performance</h3>
-      <p align="center"><strong>Executive Summary</strong></p>
-      <a href="https://i.ibb.co/LXv8Bns9/Retail-1.png">
-        <img src="https://i.ibb.co/LXv8Bns9/Retail-1.png" width="100%" alt="Retail Executive Summary"/>
-      </a>
-      <p align="center"><strong>Sales &amp; Profitability</strong></p>
-      <a href="https://i.ibb.co/tM8qm5j4/Retail-2.png">
-        <img src="https://i.ibb.co/tM8qm5j4/Retail-2.png" width="100%" alt="Retail Sales and Profitability"/>
-      </a>
-      <p align="center"><strong>Products &amp; Customer Analysis</strong></p>
-      <a href="https://i.ibb.co/bMxNt5fr/Retail-3.png">
-        <img src="https://i.ibb.co/bMxNt5fr/Retail-3.png" width="100%" alt="Retail Products and Customer Analysis"/>
-      </a>
-      <p align="center"><strong>City &amp; Operational Analysis</strong></p>
-      <a href="https://i.ibb.co/FLkGCBBH/Rtail-4.png">
-        <img src="https://i.ibb.co/FLkGCBBH/Rtail-4.png" width="100%" alt="Retail City and Operational Analysis"/>
-      </a>
-      <p>A four-page business intelligence dashboard examining sales, profitability, products, customers and city-level operations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/Retail-Business-Performance-Analysis"><strong>View Project →</strong></a></p>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">03. E-Commerce Analytics Dashboard</h3>
-      <p align="center"><strong>Executive Summary</strong></p>
-      <a href="https://i.ibb.co/B5pM8WRH/E-commerce-Dashboard-1.png">
-        <img src="https://i.ibb.co/B5pM8WRH/E-commerce-Dashboard-1.png" width="100%" alt="E-Commerce Executive Summary"/>
-      </a>
-      <p align="center"><strong>Customer Analytics</strong></p>
-      <a href="https://i.ibb.co/MyjKJJ0w/E-commerce-Dashboard-2.png">
-        <img src="https://i.ibb.co/MyjKJJ0w/E-commerce-Dashboard-2.png" width="100%" alt="E-Commerce Customer Analytics"/>
-      </a>
-      <p align="center"><strong>Product Performance</strong></p>
-      <a href="https://i.ibb.co/LzJVqCHk/E-commerce-Dashboard-3.png">
-        <img src="https://i.ibb.co/LzJVqCHk/E-commerce-Dashboard-3.png" width="100%" alt="E-Commerce Product Performance"/>
-      </a>
-      <p align="center"><strong>Time Intelligence</strong></p>
-      <a href="https://i.ibb.co/sJ6bynRp/E-commerce-Dashboard-4.png">
-        <img src="https://i.ibb.co/sJ6bynRp/E-commerce-Dashboard-4.png" width="100%" alt="E-Commerce Time Intelligence"/>
-      </a>
-      <p>A multi-page Power BI dashboard exploring e-commerce performance through executive reporting, customer analytics, product performance and time intelligence.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard"><strong>View Project →</strong></a></p>
-    </td>
+### 01. SkyLens Aviation Analytics
 
-    <td width="50%" valign="top">
-      <h3 align="center">04. Fintech Fraud Detection – Nigeria</h3>
-      <a href="https://i.ibb.co/x8q0kckP/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png">
-        <img src="https://i.ibb.co/x8q0kckP/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png" width="100%" alt="Nigerian Fintech Fraud Dashboard"/>
-      </a>
-      <p>An analytical project using SQL and Python to examine Nigerian financial transactions, identify suspicious patterns and explore fraud-related activity.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria"><strong>View Project →</strong></a></p>
-    </td>
-  </tr>
+**Tools:** Power BI | DAX | Power Query | Data Visualization
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">05. Nigerian Inflation Dashboard</h3>
-      <p align="center">Inflation Analysis — Version 1</p>
-      <a href="https://i.ibb.co/sd8TTFQ6/nigerian-inflation-dashboard-4.png">
-        <img src="https://i.ibb.co/sd8TTFQ6/nigerian-inflation-dashboard-4.png" width="100%" alt="Nigerian Inflation Analysis 1"/>
-      </a>
-      <p align="center">Inflation Analysis — Version 2</p>
-      <a href="https://i.ibb.co/KxQnv1BF/nigerian-inflation-dashboard-5.png">
-        <img src="https://i.ibb.co/KxQnv1BF/nigerian-inflation-dashboard-5.png" width="100%" alt="Nigerian Inflation Analysis 2"/>
-      </a>
-      <p>A Python-based analysis of over 22 years of Nigerian inflation data, exploring headline, food and core inflation trends.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard"><strong>View Project →</strong></a></p>
-    </td>
+An aviation analytics project exploring flight operations, airline performance and delay patterns. The dashboards provide insights into flight activity, on-time performance, cancellations and operational efficiency.
 
-    <td width="50%" valign="top">
-      <h3 align="center">06. Formula 1 World Championship Analytics</h3>
-      <p align="center"><strong>Overview</strong></p>
-      <a href="https://i.ibb.co/MDh4JB7n/F1-DASHBOARD-1.png">
-        <img src="https://i.ibb.co/MDh4JB7n/F1-DASHBOARD-1.png" width="100%" alt="Formula 1 Overview"/>
-      </a>
-      <p align="center"><strong>Drivers</strong></p>
-      <a href="https://i.ibb.co/bghcJncY/F1-DASHBOARD2-2.png">
-        <img src="https://i.ibb.co/bghcJncY/F1-DASHBOARD2-2.png" width="100%" alt="Formula 1 Drivers"/>
-      </a>
-      <p align="center"><strong>Circuits &amp; Races</strong></p>
-      <a href="https://i.ibb.co/mVJ0XfL9/F1-DASHBOARD-3.png">
-        <img src="https://i.ibb.co/mVJ0XfL9/F1-DASHBOARD-3.png" width="100%" alt="Formula 1 Circuits and Races"/>
-      </a>
-      <p align="center"><strong>Season Review</strong></p>
-      <a href="https://i.ibb.co/ynM1w8N5/F1-DASHBOARD-4-2.png">
-        <img src="https://i.ibb.co/ynM1w8N5/F1-DASHBOARD-4-2.png" width="100%" alt="Formula 1 Season Review"/>
-      </a>
-      <p>A Power BI sports analytics project exploring Formula 1 championship data, drivers, circuits, races and season performance.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/Formula-1-World-Championship-Dashboard-Power-BI-"><strong>View Project →</strong></a></p>
-    </td>
-  </tr>
+**Dashboard Screenshots**
 
-  <tr>
-    <td colspan="2" align="center">
-      <h3>07. U.S. Average Price Trend Analysis</h3>
-      <table width="85%">
-        <tr>
-          <td width="50%" align="center">
-            <a href="https://i.ibb.co/V0MJ5z6x/U-S-Average-Price-Trend-Analysis-Dashboard-1.png">
-              <img src="https://i.ibb.co/V0MJ5z6x/U-S-Average-Price-Trend-Analysis-Dashboard-1.png" width="100%" alt="U.S. Average Price Executive Overview"/>
-            </a>
-            <strong>Executive Overview</strong>
-          </td>
-          <td width="50%" align="center">
-            <a href="https://i.ibb.co/pBGpwcqH/U-S-Average-Price-Trend-Analysis-Dashboard-2.png">
-              <img src="https://i.ibb.co/pBGpwcqH/U-S-Average-Price-Trend-Analysis-Dashboard-2.png" width="100%" alt="U.S. Average Price Insights and Analysis"/>
-            </a>
-            <strong>Insights &amp; Analysis</strong>
-          </td>
-        </tr>
-      </table>
-      <p>An interactive Excel dashboard analysing monthly U.S. average prices across product categories, highlighting year-over-year movements and items with the largest price increases and decreases.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge"/>
-      </p>
-      <p align="center"><a href="https://github.com/Dannywhilz001/us-average-price-trends-analysis"><strong>View Project →</strong></a></p>
-    </td>
-  </tr>
-</table>
+**Flight Overview**
+
+![SkyLens Flight Overview](https://i.ibb.co/ZzZB5Zqd/skylens-1.png)
+
+**Performance & Delays**
+
+![SkyLens Performance and Delays](https://i.ibb.co/0j6PVtQ6/skylens-2.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/SkyLens-Aviation-Operations-Intelligence)
+
+---
+
+### 02. Retail Business Performance Analysis
+
+**Tools:** Power BI | DAX | Power Query | Data Modeling
+
+A four-page business intelligence project analyzing sales performance, profitability, products, customers and city-level operations. The dashboards explore business KPIs and provide insights into performance across different business dimensions.
+
+**Dashboard Screenshots**
+
+**Executive Summary**
+
+![Retail Executive Summary](https://i.ibb.co/LXv8Bns9/Retail-1.png)
+
+**Sales & Profitability**
+
+![Retail Sales and Profitability](https://i.ibb.co/tM8qm5j4/Retail-2.png)
+
+**Products & Customer Analysis**
+
+![Retail Products and Customer Analysis](https://i.ibb.co/bMxNt5fr/Retail-3.png)
+
+**City & Operational Analysis**
+
+![Retail City and Operational Analysis](https://i.ibb.co/FLkGCBBH/Rtail-4.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/Retail-Business-Performance-Analysis)
+
+---
+
+### 03. E-Commerce Analytics Dashboard
+
+**Tools:** Power BI | DAX | Power Query | Data Modeling
+
+A four-page e-commerce analytics project examining revenue trends, customer behavior, product performance and time-based business patterns. It uses interactive dashboards to explore customer activity, sales performance and opportunities for business improvement.
+
+**Dashboard Screenshots**
+
+**Executive Summary**
+
+![E-Commerce Executive Summary](https://i.ibb.co/B5pM8WRH/E-commerce-Dashboard-1.png)
+
+**Customer Analytics**
+
+![E-Commerce Customer Analytics](https://i.ibb.co/MyjKJJ0w/E-commerce-Dashboard-2.png)
+
+**Product Performance**
+
+![E-Commerce Product Performance](https://i.ibb.co/LzJVqCHk/E-commerce-Dashboard-3.png)
+
+**Time Intelligence**
+
+![E-Commerce Time Intelligence](https://i.ibb.co/sJ6bynRp/E-commerce-Dashboard-4.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/E---Commerce-Analytics-Dashboard)
+
+---
+
+### 04. Fintech Fraud Detection – Nigeria
+
+**Tools:** SQL | Python | Power BI | Data Analysis
+
+A financial transaction analysis project focused on identifying suspicious transaction patterns and exploring potential fraud risks within a synthetic Nigerian fintech dataset. The project combines data querying, analysis and visualization to investigate transaction behavior and risk indicators.
+
+**Dashboard Screenshot**
+
+![Nigerian Fintech Fraud Dashboard](https://i.ibb.co/x8q0kckP/NIGERIAN-FRAUD-BUSINESS-INTELLIGENCE-DASHBOARD.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/Fintech-Fraud-Detection-Nigeria)
+
+---
+
+### 05. Nigerian Inflation Analysis Dashboard
+
+**Tools:** Python | Data Analysis | Data Visualization
+
+An economic data analysis project examining historical inflation trends in Nigeria, including headline, food and core inflation. The analysis explores long-term movements and changes in inflation patterns to make economic trends easier to understand.
+
+**Dashboard Screenshots**
+
+![Nigerian Inflation Dashboard Page 1](https://i.ibb.co/sd8TTFQ6/nigerian-inflation-dashboard-4.png)
+
+![Nigerian Inflation Dashboard Page 2](https://i.ibb.co/KxQnv1BF/nigerian-inflation-dashboard-5.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/Nigerian-Inflation-Dashboard)
+
+---
+
+### 06. Formula 1 World Championship Analytics
+
+**Tools:** Power BI | DAX | Data Modeling | Data Visualization
+
+A motorsport analytics project exploring Formula 1 history, driver and constructor performance, race circuits and season-level trends. The interactive dashboards allow users to examine performance across different dimensions of the championship.
+
+**Dashboard Screenshots**
+
+**Championship Overview**
+
+![Formula 1 Overview](https://i.ibb.co/MDh4JB7n/F1-DASHBOARD-1.png)
+
+**Driver Analysis**
+
+![Formula 1 Drivers](https://i.ibb.co/bghcJncY/F1-DASHBOARD2-2.png)
+
+**Circuits & Races**
+
+![Formula 1 Circuits and Races](https://i.ibb.co/mVJ0XfL9/F1-DASHBOARD-3.png)
+
+**Season Review**
+
+![Formula 1 Season Review](https://i.ibb.co/ynM1w8N5/F1-DASHBOARD-4-2.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/Formula-1-World-Championship-Dashboard-Power-BI-)
+
+---
+
+### 07. U.S. Average Price Trend Analysis
+
+**Tools:** Microsoft Excel | Power Query | PivotTables | Charts | Slicers
+
+An Excel-based analytical project exploring average price movements across items and categories over time. The dashboard uses interactive filters and key performance indicators to examine price changes, compare trends and identify notable movements.
+
+**Dashboard Screenshots**
+
+**Executive Overview**
+
+![U.S. Average Price Executive Overview](https://i.ibb.co/V0MJ5z6x/U-S-Average-Price-Trend-Analysis-Dashboard-1.png)
+
+**Insights & Analysis**
+
+![U.S. Average Price Insights and Analysis](https://i.ibb.co/pBGpwcqH/U-S-Average-Price-Trend-Analysis-Dashboard-2.png)
+
+🔗 [View Project Repository](https://github.com/Dannywhilz001/us-average-price-trends-analysis)
 
 # 📊 Data Analytics Portfolio
 
