@@ -22,8 +22,6 @@
     </td>
   </tr>
 </table>
-<h2 align="center">🛠️ Tools & Technologies</h2>
-
 
 <!-- TOOLS & TECHNOLOGIES -->
 <h2 align="center">🛠️ Tools & Technologies</h2>
