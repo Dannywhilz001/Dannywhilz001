@@ -24,6 +24,48 @@
 </table>
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
+<h2 align="center">📊 Skills</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Technical Skills</h3>
+      <ul>
+        <li>Data Cleaning & Transformation</li>
+        <li>Exploratory Data Analysis</li>
+        <li>Dashboard Development</li>
+        <li>KPI Tracking & Reporting</li>
+        <li>Data Visualization</li>
+        <li>Data Validation</li>
+        <li>SQL Querying</li>
+        <li>DAX & Data Modeling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Analytical Skills</h3>
+      <ul>
+        <li>Business Performance Analysis</li>
+        <li>Trend Analysis</li>
+        <li>Customer & Product Analysis</li>
+        <li>Operational Analysis</li>
+        <li>Financial Analysis</li>
+        <li>Problem-Solving with Data</li>
+        <li>Data-Driven Decision Support</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Professional Skills</h3>
+      <ul>
+        <li>Critical Thinking</li>
+        <li>Analytical Problem-Solving</li>
+        <li>Attention to Detail</li>
+        <li>Communication of Insights</li>
+        <li>Continuous Learning</li>
+        <li>Structured Thinking</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
