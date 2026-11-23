@@ -34,7 +34,7 @@
 </p>
 
 <!-- SKILLS -->
-<h2 align="center">📊 Skills & Expertise</h2>
+<h3 align="center">Workplace Skills</h3>
 
 <table>
   <tr>
@@ -79,14 +79,6 @@
   </tr>
 </table>
 
-
-## 🛠️ Technical Skills
-- **Data Analysis:** Excel, SQL, Python, Pandas, NumPy
-- **Business Intelligence:** Power BI, DAX, Power Query, KPI Development
-- **Data Visualization:** Interactive Dashboards, Trend Analysis, Data Storytelling
-- **Analytics:** Customer Segmentation, Revenue Analysis, Forecasting, Fraud Detection
-- **Tools:** Git, GitHub, Jupyter Notebook
----
 # 📊 Data Analytics Portfolio
 
 ## 1. Retail Business Performance Analysis
