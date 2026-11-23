@@ -238,8 +238,20 @@ An Excel-based analytical project exploring average price movements across items
 🔗 [View Project Repository](https://github.com/Dannywhilz001/us-average-price-trends-analysis)
 
 ---
-## 📫 Connect With Me
-- **LinkedIn:** [Oladotun Olawale](https://www.linkedin.com/in/oladotun-olawale/)
-- **GitHub:** [Dannywhilz001](https://github.com/Dannywhilz001)
----
-*Turning data into insights, and insights into better decisions.*
+
+## 📬 Connect With Me
+
+I'm interested in connecting with data professionals, learning from the analytics community and exploring opportunities to apply data analytics to practical business problems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oladotun-olawale/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dannywhilz001">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Turning data into insights, and insights into better decisions.</i>
+</p>
