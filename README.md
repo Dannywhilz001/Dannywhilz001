@@ -85,13 +85,13 @@ A selection of data analytics projects demonstrating my experience in data clean
 
 ---
 
-### 01. SkyLens Aviation Analytics
+## 01. SkyLens Aviation Operations Intelligence
 
-**Tools:** Power BI | DAX | Power Query | Data Visualization
+Tools: Power BI | Python | Pandas | DuckDB | SQL | Streamlit | Plotly
 
-An aviation analytics project exploring flight operations, airline performance and delay patterns. The dashboards provide insights into flight activity, on-time performance, cancellations and operational efficiency.
+An aviation analytics project combining an interactive Power BI dashboard with a Python and Streamlit analytics platform. The project explores flight operations, airline performance, airport reliability, route performance, cancellations and delay patterns using both dashboard-based business intelligence and a reproducible data-processing pipeline.
 
-**Dashboard Screenshots**
+**Power BI Dashboard Screenshots**
 
 **Flight Overview**
 
